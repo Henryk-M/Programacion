@@ -38,3 +38,5 @@ es igual o superior a 25, debe aparecer un mensaje informando de sobrepeso.
 importantes descuentos. A los adultos se les aplicará un 10% de descuento y a los menores 
 de 18 años un 50%. Si la entrada cuesta 12 euros, calcula el total a pagar introduciendo por 
 teclado el número de menores y el número de adultos que asisten al cine.
+19. Programa que introduzca dos números y devuelva cuál de los dos es mayor, menor o son 
+iguales
