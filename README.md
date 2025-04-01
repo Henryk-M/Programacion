@@ -79,4 +79,30 @@ o suspendido.
 notas inferiores a 0 y superiores a 10
 39. Programa que pida n números y que, tras introducir el último número, debe aparecer por 
 pantalla el número total de positivos, negativos y número de 0.
+50. Realiza un programa que de los buenos días 3 veces. Con While
+51. A partir del programa anterior, modifica el código para que sea el usuario quién introduzca el 
+número de veces que desea que repita la frase Buenos días. Con While
+52. Realiza un programa que sume dos números enteros por teclado y presente el resultado por 
+pantalla. El programa preguntará si deseas o no repetir la operación. Con While
+53. A partir del código anterior, haz que aparezca al finalizar el programa por pantalla el total las 
+sumas y el número de repeticiones. Con While
+54. Modifica el programa anterior y haz que se repita el ciclo automáticamente hasta que el total 
+de todas las sumas sea superior a 50, será entonces cuando el programa finalice. No hará falta 
+preguntar si deseas repetir la operación. En cada operación aparece por pantalla la suma de la 
+operación y su acumulado. Para aquellos de vosotros que os fijáis en los detalles, controlar que el 
+mensaje del acumulado es singular o plural.. . Con Whiles y el número de repeticiones. Con While
+55. Última vez que reutilizamos el mismo código.. lo prometo . A partir del programa anterior 
+haz que sea todo exactamente igual pero teniendo en cuenta que el programa se repita siempre y 
+cuando la suma acumulada sea superior a 50 o la suma acumulada sea par. Con While
+56. Realiza un programa que gestione un establecimiento de venta de bocadillos. Un pedido se 
+compone de: bocadillo, acompañamiento y bebida. Un cliente puede pedir más de un pedido. El 
+dependiente a partir del menú (ver imagen), se encarga de introducir los datos. El menú solo se 
+visualiza una vez al ejecutar el programa. El programa debe preguntar al dependiente tras la 
+realización de un pedido, si quiere gestionar otro.
+57. Realiza un programa que permita adivinar un número comprendido entre 1 y 5. El programa 
+debe controlar si el usuario introduce un número no comprendido entre 1 y 5
+
+
+
+
 
